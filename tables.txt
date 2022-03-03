@@ -1,0 +1,8 @@
+//To make table then make columns then make 2 controllers to view pages
+php artisan make:migration create_categories_table
+create columns
+php artisan migrate
+php artisan make:controller Admin/CategoryController
+php artisan make:controller Admin/FrontendController
+//make model to insert categories data
+php artisan make:model Category

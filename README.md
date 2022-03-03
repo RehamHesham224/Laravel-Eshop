@@ -1,0 +1,52 @@
+## About E-Shop
+
+Laravel Project using native laravel dashboard with authentication system to sell Products
+
+-   make Login and Register system and link CSS and JS in laravel
+-   make Admin Middleware and redirect admin to admin dashboard
+-   make logout button in Laravel 8 E-commerce project
+-   Category in Dashboard
+    -   Add Category in ecommerce in admin panel | create migration for category
+    -   Fetch Category data in ecommerce admin panel
+    -   Edit and Update Category in laravel ecommerce
+    -   Delete Category in ecommerce Admin panel
+-   show session message using sweet alert in ecommerce Admin panel
+-   Set current Navbar Item to Active in Laravel Admin panel
+-   Product in Dashboard
+    -   Create products table and insert products | Model and Migration
+    -   Fetch products in admin dashboard | Display Category name | belongsTo
+    -   Edit / update and delete prodcuts | delete old image and upload new image
+-   Category in FrontEnd
+    -   make navbar and slider for ecommerce | Frontend layout setup
+    -   integrate owl carousel in laravel | Fetch the featured products
+    -   show trending category in laravel ecommerce | Fetch all Category
+    -   fetch products by category in laravel ecommerce | Filter by category
+    -   display product details in laravel ecommerce | Product View
+-   show session message using sweet alert
+-   make product quantity increment or decrement in laravel using jquery
+-   Cart
+    -   make add to cart in laravel using jQuery Ajax | Ajax Cart
+    -   Display Cart items and remove items from cart in laravel 8 Ecommerce
+    -   Calculate the cart total price | Change total price on quantity increment / decrement
+-   Checkout
+    -   make Checkout page in laravel | Show order items in checkout page
+    -   check stock availability | Stock validation in checkout page
+    -   Checkout and Place order in laravel | Store order items in DB | Clear Cart
+-   Order
+    -   Show Orders and order details in user dashboard | Display All Orders
+    -   Show Orders and view order details in admin dashboard | Update Order status
+-   Show registered users and view user details in Admin Dashboard
+-   Wishlist
+    -   Add products to Wishlist | Add to cart and remove items from wishlist
+    -   Show Cart and Wishlist items count in Navbar | Reload count w/o page refresh
+-   PayPal ,Razorpay
+    -   Checkout Form validation for Online Payment | Razorpay Integration Part A
+    -   Razorpay payment gateway integration in laravel 8 ecommerce
+    -   PayPal payment gateway integration in laravel 8 ecommerce
+-   Rating & Review
+    -   Product Rating in laravel ecommerce | Star rating in laravel
+    -   Product Reviews in laravel ecommerce | Display rating along with reviews
+-   Updates in Laravel Ecommerce series | Reload a div without page refresh
+-   make Search product in laravel | Ajax auto complete
+
+-   integrate tawk to live chat in laravel 8 | Add Whatsapp chat
